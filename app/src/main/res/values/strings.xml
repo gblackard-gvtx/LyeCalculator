@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LyeCalculator</string>
+    <string name="main_statement">Please Select the type of soap you would like to create.</string>
+    <string name="button_solid">Solid Na\OH</string>
+    <string name="button_liquid">Liquid KOH</string>
+    <string name="measure_unit_statement">Please choose your unit of measure.</string>
+    <string name="button_ounce">Ounce</string>
+    <string name="button_grams">Grams</string>
+    <string name="supperfatting_explain">Superfatting is leaving a percentage of oil unconverted in your finished bar. We do not recommend more then 10% </string>
+    <string name="superfatting_percent">Superfatting %</string>
+    <string name="next_button_super">Next</string>
+    <string name="ingredient_text_header">Please enter the weights of each oil used.</string>
+    <string name="olive_oil">Olive Oil</string>
+    <string name="coconut_oil">Coconut Oil</string>
+    <string name="palm_oil">Palm Oil</string>
+    <string name="cocoa_butter">Cocoa Butter</string>
+    <string name="shea_butter">Shea Butter</string>
+    <string name="enter_oil_weight">Enter Oil Weight</string>
+    <string name="next_button_ing">Next</string>
+    <string name="textViewResults">Results</string>
+    <string name="Lye_text_lable">Lye (Sodium Hydroxide)</string>
+    <string name="lye_liq"><![CDATA[LYE & LIQUID]]></string>
+    <string name="amount_label">AMOUNT IN OZ</string>
+    <string name="ounces_of_liquid">Ounces of liquid</string>
+</resources>
